@@ -1,0 +1,55 @@
+- id: Datacamp
+  desc: Performing, mentoring required to choose appropriate modules
+  hours: unknown
+  discipline: CS/DS
+  link: https://www.jove.com/education/13
+
+
+- id: Math Foundation for ML 
+  desc: Video watching and hands on exercise
+  hours: unknown
+  discipline: CS/DS
+  link: Video watching and hands on exercise
+
+
+- id: Feature Engineering 
+  desc: Slides, videos and hands on exercise
+  hours: unknown
+  discipline: CS/DS
+  link: Google classroom on DDMD
+
+
+- id: Neural Networks
+  desc: Slides, videos and hands on exercise
+  hours: unknown
+  discipline: CS/DS
+  link: Google classroom on DDMD , youtube 3blue1brown , http://neuralnetworksanddeeplearning.com/
+
+
+- id: Recommendor system using python
+  desc: Slides, videos and hands on exercise
+  hours: unknown
+  discipline: CS/DS
+  link: Google classroom on DDMD 
+
+
+- id: Convolutional Neural Network
+  desc: Slides, videos and hands on exercise
+  hours: unknown
+  discipline: CS/DS
+  link: Google classroom on DDMD, https://adamharley.com/nn_vis/cnn/3d.html, 
+
+- id:  Deep Reinforcement Learning Course
+  desc: Hands on tutorial and course on Reinforcement learning 
+  hours: 
+  discipline: CS/DS
+  link: https://huggingface.co/learn/deep-rl-course/unit0/introduction
+
+
+- id:  AI Agent Course 
+  desc: 
+  hours: 
+  discipline: CS/DS
+  link: https://huggingface.co/learn/agents-course/unit0/introduction
+
+

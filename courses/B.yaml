@@ -1,0 +1,59 @@
+- id: JOVE Basic Biology Videos
+  desc: Watching, mentoring required to choose appropriate videos
+  hours: unknown
+  discipline: Biology
+  link: https://www.jove.com/education/basicbio
+
+
+- id: JOVE Advanced Biology Videos
+  desc: Watching, mentoring required to choose appropriate videos
+  hours: unknown
+  discipline: Biology
+  link: https://www.jove.com/education/advnbio
+
+- id: JOVE Chemistry Videos
+  desc: Watching, mentoring required to choose appropriate videos
+  hours: unknown
+  discipline: Chemistry
+  link: https://www.jove.com/education/chem
+
+
+- id: JOVE Engineering Videos
+  desc: Watching, mentoring required to choose appropriate videos
+  hours: unknown
+  discipline: Biodesign/Engineering
+  link: https://www.jove.com/education/eng
+
+
+- id: JOVE Environmental Microbiology
+  desc: Watching, mentoring required to choose appropriate videos
+  hours: unknown
+  discipline: Biology
+  link: https://www.jove.com/education/13
+
+
+- id: Jove Biomedical Videos
+  desc: Watching, mentoring required to choose appropriate videos
+  hours: unknown
+  discipline: Biomedical/Engineering
+  link: https://app.jove.com/education/3602/biomedical-engineering
+
+
+- id: Introduction to Python
+  desc: Video watching and hands on exercise
+  hours: 96 hours or more (alternative CS170 Class)
+  discipline: All
+  link: Google classroom on DDMD, online resource geekforgeeks
+
+- id: Data Visualization
+  desc: Video watching and hands on exercise
+  hours: 6 hours 
+  discipline: All
+  link: Google classroom on DDMD
+
+- id: NIH INBRE Data Management workshop
+  desc: Explaining about Data management plan for nIH
+  hours: unknown
+  discipline: All
+  link: https://classroom.google.com/w/NTIyNTg1MDg2MTQ3/t/all
+

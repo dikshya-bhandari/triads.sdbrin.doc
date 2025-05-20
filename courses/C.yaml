@@ -1,0 +1,33 @@
+- id: Bioinformatics Data Manipulation and Online Tools
+  desc: Video watching and hands on exercise
+  hours: 1 hour
+  discipline: Bioinformatics 
+  link: Google classroom on SDBRIN
+
+
+- id: Genomics, Gene Expression Data and Functional Annotation
+  desc: Video watching and hands on exercise
+  hours: 2 hours
+  discipline: Bioinformatics 
+  link: Google classroom on SDBRIN
+
+
+- id: Microbiome data, Metagenomics and Functional Annotation
+  desc: Video watching and hands on exercise
+  hours: 2 hours
+  discipline: Bioinformatics 
+  link: Google classroom on SDBRIN
+
+
+- id: Cloud Based Dockerized Metagenomics 
+  desc: Executing the tutorial examples on github
+  hours: unknown
+  discipline: CS/DS
+  link: https://github.com/NIGMS/Metagenomics-Analysis-of-Biofilm-Microbiome
+
+
+- id: The Unix Shell
+  desc: 
+  hours: 
+  discipline: CS/DS
+  link: https://swcarpentry.github.io/shell-novice/aio.html

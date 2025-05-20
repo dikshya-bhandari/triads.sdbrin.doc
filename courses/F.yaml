@@ -1,0 +1,25 @@
+- id: CITI RCR Training
+  desc: Performing, 4-year recurring, required for Gnimpieba Lab funding
+  hours: 3 hours
+  discipline: All
+  link: https://coyotesusd.sharepoint.com/:b:/s/TRIADS-Administration/Ee9MYsCbekxPhQDlcACfvrABN9iT1P3_6831TIqHA_9F2g?e=eFft1H
+
+
+- id: FAIR Guiding Principles
+  desc: Reading, Nature article
+  hours: 1 hour read
+  discipline: DS
+  link: https://www.nature.com/articles/sdata201618
+
+- id: TRUST Principles
+  desc: Reading, Nature article
+  hours: 1 hour read
+  discipline: DS, CS
+  link: https://www.nature.com/articles/s41597-020-0486-7
+
+- id: The Good Research Code Handbook
+  desc: Reading and Practicing
+  hours: 6 hours
+  discipline: All
+  link: https://goodresearch.dev/index.html
+

@@ -1,0 +1,17 @@
+- id: C30 Makefiles
+  desc: |
+    Makefiles are like smart shell scripts.  We learn some about
+    them and in the process, become ever more efficient.
+  reading: |
+    `Software
+    Carpentry make-novice
+    <http://swcarpentry.github.io/make-novice/>`__.
+
+
+- id: C50 Version control for teams
+  desc: |
+    Previously, you learned only the basics.  Now for the real
+    stuff.
+  reading: |
+    `CodeRefinery collaborative distributed version control
+    lesson <http://coderefinery.org/lessons/>`__

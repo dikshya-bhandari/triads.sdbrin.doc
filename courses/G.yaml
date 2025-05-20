@@ -1,0 +1,84 @@
+- id:  AWS Academy Cloud Architecting
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS
+
+
+- id:   AWS Academy Cloud Developing 
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS
+
+- id:   AWS Academy Cloud Foundations 
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS
+
+
+- id:   AWS Academy Cloud Operations 
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS
+
+
+- id:    AWS Academy Data Engineering
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS
+
+
+- id:   AWS Academy Engineering Operations Technician
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS
+
+
+- id:   AWS Academy Cloud Security Foundations
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS
+
+
+- id:  AWS Academy Introduction to Cloud - Semester 1
+  desc: 
+  hours: 
+  discipline: 
+  link: https://awsacademy.instructure.com/courses/64716
+
+- id:  AWS Academy Introduction to Cloud - Semester 2
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS
+
+
+- id:   AWS Academy Lab Project - Cloud Data Pipeline Builder 
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS
+
+- id:   AWS Academy Lab Project - Cloud Security Builder
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS
+
+- id:   AWS Academy Lab Project - Cloud Web Application Builder 
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS
+
+- id:   AWS Academy Lab Project - Microservices and CI/CD Pipeline Builder 
+  desc: 
+  hours: 
+  discipline: 
+  link: CS/DS

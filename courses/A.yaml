@@ -1,0 +1,113 @@
+# - id: A01 Introduction to scientific computing
+#   desc: Get started with common scientific computing guidelines.
+#   reading: |
+#     >\ `Good computing practices <https://doi.org/10.1371/journal.pcbi.1005510>`__ for everyone regardless of skills
+#   questions: |
+#     >What kind of a workflow to follow?
+#     >Where to get help?
+
+# - id: A10 Configuring Linux for scientific work
+#   desc: Linux is great for scientific work.  This goes over some key
+#     things to install to get going.
+#   reading: |
+#     >Software Carpentry set up `material <https://carpentries.github.io/workshop-template/#git>`__
+#   questions: |
+#     >What kind of tools do I need?
+
+# - id: A11 Configuring Mac for scientific work
+#   desc: Get your Mac computer set up for scientific computing
+#     tasks.
+#   video: |
+#     >Software Carpentry `tutorial <https://www.youtube.com/watch?v=9LQhwETCdwY>`__ for Shell, Git and Nano installations on a Mac.
+#   reading: |
+#     >Software Carpentry set up `material <https://carpentries.github.io/workshop-template/#git>`__
+
+
+# - id: A12 Configuring Windows for scientific work
+#   desc: Get your Windows computer set up for scientific computing
+#     tasks.
+#   video: |
+#     >Software Carpentry Git Bash `tutorial <https://www.youtube.com/watch?v=339AEqk9c-8>`__ for Windows.
+#   reading: |
+#     >Software Carpentry set up `material <https://carpentries.github.io/workshop-template/#git>`_ 
+
+
+- id: ECACC Mammalian Cell Culture
+  desc: Reading, handbook
+  hours: 2 hours
+  discipline: Biology
+  link: https://coyotesusd.sharepoint.com/:b:/s/TRIADS-Administration/EaXQQI_HV_5Btu1iGvs9BIkBEcVwVa2SLJGsRdMM3KsXXg?e=eaI0jS
+
+- id: ATCC Animal Cell Culture Guide
+  desc: Reading, handbook
+  hours: 2 hours
+  discipline: Biology
+  link: https://coyotesusd.sharepoint.com/:b:/s/TRIADS-Administration/Edva5g_zztVCnCqsmHIHNLEBsk_kEDuZI-irpwBEnaxSbw?e=WI80sY
+  
+- id: ATCC Bacteria Cell Culturex 
+  desc: Reading, handbook
+  hours: 2 hours
+  discipline: Biology
+  link: https://coyotesusd.sharepoint.com/:b:/s/TRIADS-Administration/EWDy-mo_zq9FjnHFEkt_8MABhGtPd7cEuJgUa2Ia1gtzOw?e=hEwz5L
+
+- id: Olympus Inverted Microscope Training
+  desc: Performing, done face-to-face, required before use
+  hours: 1-2 hours
+  discipline: Biology
+  link: No link, Dr. Harmon performs this
+
+- id: Confocal Microscope Training
+  desc: Performing, Dr. Harmon's training, required before use
+  hours: unknown
+  discipline: Biology
+  link: No link, Dr. Harmon performs this
+
+- id: SEM Training
+  desc: Performing, done face-to-face, required before use
+  hours: unknown
+  discipline: Biology
+  link: No link, Dr. Harmon performs this
+
+- id: Autoclave Training
+  desc: Performing, done face-to-face, required before use
+  hours: 1 hour 
+  discipline: Biology
+  link: No link, Dr. Harmon performs this
+
+- id: Biosafety cabinet training
+  desc: Performing, done face-to-face
+  hours: 4-6 hours
+  discipline: Biology
+  link: No link, someone performs this
+
+- id: GEAR Center Tour
+  desc: Performing, done face-to-face
+  hours: 1 hour
+  discipline: Biology, Chemistry, Engineering
+  link: No link, Tim performed this
+
+- id: Lab Safety Training
+  desc: Watching, Dr. Harmon's training
+  hours: 1.5 hours
+  discipline: Biology
+  link: No link (unless Erin will share slides)
+
+- id: Nanopore Training
+  desc: Watching, required before use
+  hours: unknown
+  discipline: Biology
+  link: https://community.nanoporetech.com/nanopore-learning?from=support
+
+- id: 10x Single Cell Library Preparation
+  desc: Reading, required before use
+  hours: 6 hours
+  discipline: Biology
+  link: Paper materials at GEAR
+
+- id: The Immortal Life of Henrietta Lacks
+  desc: Reading (book) or watching (movie), human health ethics, true story
+  hours: Multiple days (book) or 1.5 hours (movie)
+  discipline: Biology
+  link: https://www.amazon.com/Immortal-Life-Henrietta-Lacks/dp/1400052181 , https://www.imdb.com/title/tt5686132
+
+
